@@ -26,7 +26,7 @@ For this project,  i will resolve some questions about dataset and lastly predic
 		  + porfolio.json: input data of information about offers.
 		  + profile.json: input profile about customers.
 		  + transcript.json: input transcript of customers.
-		- Starbucks_Capstone_notebook.ipynb: python jupyter notebook source code.
+    - Starbucks_Capstone_notebook.ipynb: python jupyter notebook source code.
     - requirements.txt: contains all libraries required to work with this project.
     - Starbucks_Capstone_notebook-zh.ipynb: not used but incluđe in template.
 
